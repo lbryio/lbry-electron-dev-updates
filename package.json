@@ -1,6 +1,6 @@
 {
   "name": "lbry-electron-dev-updates",
-  "version": "0.1.1",
+  "version": "0.52.5",
   "main": "index.js",
   "repository": "git@github.com:lbryio/lbry-electron-dev-updates.git",
   "author": "zeppi <jessopb@gmail.com>",
