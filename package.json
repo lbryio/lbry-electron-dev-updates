@@ -1,0 +1,8 @@
+{
+  "name": "lbry-electron-dev-updates",
+  "version": "0.1.1",
+  "main": "index.js",
+  "repository": "git@github.com:lbryio/lbry-electron-dev-updates.git",
+  "author": "zeppi <jessopb@gmail.com>",
+  "license": "MIT"
+}
